@@ -1,3 +1,5 @@
+# Tanushree's First CS193 Homework
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -15,10 +17,11 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- The funny memes in the presentations every class
+- The secret word to find to enter in the attendance quiz
+- Easy to understand language, especially since I'm new to coding
 
-1. Numbered
+1. My
 2. List
 
 **Bold** and _Italic_ and `Code` text
